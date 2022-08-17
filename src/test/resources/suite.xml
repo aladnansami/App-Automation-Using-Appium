@@ -1,0 +1,9 @@
+<suite thread-count="1" verbose="1" name="Calculator Automation">
+
+    <test name="Calculator automation">
+        <classes>
+            <class name="testrunner.calculationTestrunner"/>
+        </classes>
+    </test>
+
+</suite>
