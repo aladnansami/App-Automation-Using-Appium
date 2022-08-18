@@ -7,4 +7,4 @@
 https://apps.evozi.com/apk-downloader/
 
 # Automate App Name
-Calculaator
+Calculator
