@@ -7,4 +7,28 @@
 https://apps.evozi.com/apk-downloader/
 
 # Automate App Name
-Calculator
+Calculator (https://play.google.com/store/apps/details?id=com.google.android.calculator)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
